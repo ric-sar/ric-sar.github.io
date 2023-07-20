@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ":rocket: Hi! I'm Riccardo"
+title: "🚀 Hi! I'm Riccardo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +16,7 @@ In the previous role, identified possible deep learning solutions to solve chip 
 Highly organized, self‑motivated, and proficient with computers.
 Seeking to leverage research in data field through PhD and leadership expertise as future data project manager.
 
-# :hammer_and_wrench: Technologies and Tools
+# 🛠️ Technologies and Tools
 
 <table>
 <tbody>
@@ -50,7 +50,7 @@ Seeking to leverage research in data field through PhD and leadership expertise 
 # 🌱 I’m currently learning 
 * Reinforcement Learning
 
-# :fire: Something interesting
+# 🔥 Something interesting
 * [Conda Cheat Sheet](https://github.com/ric-sar/conda_cheatsheet)
 * [LaTeX Cheat Sheet](https://github.com/ric-sar/latex_cheat_sheet)
 * [The Ultimate PhD Stundent Guide](https://github.com/ric-sar/ultimate_phd_student_guide)
