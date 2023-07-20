@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Riccardo's Homepage"
+title                    : "Riccardo Sarpietro"
 title_separator          : "-"
 name                     : &name "Riccardo Sarpietro"
 description              : &description "personal description"
