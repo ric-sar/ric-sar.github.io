@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![bkg](https://user-images.githubusercontent.com/82369153/205514876-bfc3e8df-0601-4563-9c01-f2077c0a17dd.jpeg)
+![image_about](https://github.com/ric-sar/ric-sar.github.io/assets/82369153/0e912c14-dfa3-471c-b23a-b434a22216ad)
 PhD Student in Computer Engineering @ [UniCT](https://www.unict.it/) with Economics background and one year of R&D experience in  microelectronics field @ [STMicroelectronics](https://www.st.com/).
 
 In the previous role, identified possible deep learning solutions to solve chip shortage by improving production yield at no cost to the company.
