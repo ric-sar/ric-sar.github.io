@@ -6,8 +6,8 @@ main:
   - title: "Conferences"
     url: /conferences/
        
-  - title: "Blog"
-    url: /year-archive/
+  #- title: "Blog"
+  #  url: /year-archive/
 
   - title: "Guides"
     url: /markdown/
