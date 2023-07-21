@@ -27,14 +27,36 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+# 🛠️ Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<table>
+<tbody>
+  <tr>
+    <td>Data Visualization</td>
+    <td>Tableau | Matplotlib, Seaborn, Plotly | ggplot2</td>
+  </tr>
+  <tr>
+    <td>Cloud</td>
+    <td>Google Colab, BigQuery, Cloud Storage, Job Scheduler, Vertex AI, Cloud Functions</td>
+  </tr>
+  <tr>
+    <td>Programming</td>
+    <td>SQL | NoSQL | Python | R | LaTeX | Markdown</td>
+  </tr>
+  <tr>
+    <td>AI | ML | DL</td>
+    <td>Anaconda | Scikit-learn | OpenCV | PyCaret | PyTorch | Captum | W&amp;B | Streamlit | RLlib</td>
+  </tr>
+  <tr>
+    <td>IDE</td>
+    <td>R Studio | Jupyter Notebook, Lab | Spyder | VSCode</td>
+  </tr>
+  <tr>
+    <td>Version Control</td>
+    <td>Git | GitHub</td>
+  </tr>
+</tbody>
+</table>
 
 Publications
 ======
