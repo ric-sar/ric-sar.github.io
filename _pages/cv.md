@@ -21,7 +21,7 @@ Work experience
 pending in US).
 
 **Applied Scientist Intern (Master's Degree Thesis) from September 2021 to January 2022**
-+ Developed an end‑to‑end deep learning web‑application for Defect Pattern Recognition on Wafer Maps by reducing daily failure analysis time from hours to less than 15 minutes (Patent pending in US | [Paper](+)). The pipeline consists in:
++ Developed an end‑to‑end deep learning web‑application for Defect Pattern Recognition on Wafer Maps by reducing daily failure analysis time from hours to less than 15 minutes (Patent pending in US - [Paper](https://ieeexplore.ieee.org/document/9877886)). The pipeline consists in:
   - Unsupervised learning approach: applied Dimensionality Reduction and Hierarhical Clustering techniques to group new unknown defect patterns from production lines and then used as new labeled class to re‑train the CNN in supervised fashion.
   - Supervised learning approach: developed a CNN that achieved 96% of accuracy on 45 known patterns and benchmarked against State‑Of‑The‑Art (VGG‑19, ResNet‑152, DenseNet‑161 and Vision Transformer both pre‑trained on ImageNet or trained from scratch), performance assessed by applying Explainable AI (XAI) methods (Integrated Gradients, Grad‑CAM and Attention Maps).
 
@@ -29,7 +29,7 @@ Education
 ======
 **PhD Student in Computer Engineering (Expected Graduation in December of 2025)**
 + University of Catania (Italy)
-  - Research topics: Reinforcement Learning | Imitation Learning | Computer Vision
+  - Research topics: Reinforcement Learning - Imitation Learning - Computer Vision
 
 **Master Degree in ”Data Science for Management ‑ LM91” (Final mark: summa cum laude)**
 + University of Catania (Italy), Graduated in March of 2022
@@ -112,7 +112,7 @@ Volunteering
  
 **[Computer Vision and Image Understanding (CVIU)](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)**
 + Peer Reviewer from January 2023 ‑ Current
-  - Research topics: Object Detection | Computer Vision
+  - Research topics: Object Detection - Computer Vision
 
 **[Italian Association for Computer Vision, Pattern Recognition and Machine Learning (CVPL)](https://www.cvpl.it/)**
 + Member from August 2022 ‑ Current
