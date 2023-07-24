@@ -11,6 +11,6 @@ Two weeks ago I attended the International Computer Vision Summer School (ICVSS)
 Although the summer school content was interesting, I have also attended an essay competition about Human-imitative intelligence, i.e., if the current AI products can be considered an incarnation of human-intelligence or just a simulation.
 
 In the essay, which was a collaboration between other three people coming from Zurich, Toronto and Luxemburg, we wrote about historical and current perspective of AI products with Turing Test in mind.
-Check the essay [**HERE**](ric-sar.github.io/files/ICVSS_2023_Essay_Competition.pdf) and tell me what you think about!
+Check the essay [**HERE**](https://ric-sar.github.io/files/ICVSS_2023_Essay_Competition.pdf) and tell me what you think about!
 
 PS: Sadly, we did not win but were awarded for Honourable mention
