@@ -7,6 +7,9 @@ tags:
   - competition
 ---
 
+![riccardos _Alan_Turing_making_the_turing_test_on_the_desk_8fa0bbb1-1df3-43a9-a695-5c008c96acc3](https://github.com/ric-sar/ric-sar.github.io/assets/82369153/99cfd7f9-7aa9-4754-9e91-69b85275472b)
+*Alan Turing making the Turing test on the desk*
+
 Two weeks ago I attended the International Computer Vision Summer School (ICVSS), a nice summer school full of lectures held by Machine and Deep Learning giants (e.g., Andrej Karpathy, William T. Freeman, and so on). 
 Although the summer school content was interesting, I have also attended an essay competition about Human-imitative intelligence, i.e., if the current AI products can be considered an incarnation of human-intelligence or just a simulation.
 
