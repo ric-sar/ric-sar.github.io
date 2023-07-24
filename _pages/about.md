@@ -19,6 +19,6 @@ Seeking to leverage research in data field through PhD and leadership expertise 
 # 🌱 I’m currently learning 
 * Reinforcement Learning
 
-# Recent blog post
+# Recent blog posts
 * July 23, 2023 [**Essay competition at ICVSS 2023**](https://ric-sar.github.io/posts/2023/07/essay-competition/)
 * July 21, 2023 [**Hello World!**](https://ric-sar.github.io/posts/2023/07/hello-world/)
