@@ -13,14 +13,14 @@ Work experience
 ======
 **STMicroelectronics ‑ ADG R&D ‑ AI for Modeling and Predictive Reliability Team - Catania, Italy**
 
-**Applied Scientist Intern from April 2022 to October 2022**
+**Data Scientist Intern from April 2022 to October 2022**
 + Developed data science tools and deep learning models for:
   - Python implementation of MOSFET Level 3 SPICE, achieving faster computation performance than enterprise tools for a preparatory analysis on device modeling.
   - Wafer Parametric Comparison Analysis Tool, the introduction of Boosting and EDA techniques on T84 and EWS data suggested the selection of only 15 over 60 electrical tests speeding up the analysis by four times.
   - Defect detection on high‑resolution images of power modules in less than 5 seconds by innovatively applying YOLO algorithm (Patent
 pending in US).
 
-**Applied Scientist Intern (Master's Degree Thesis) from September 2021 to January 2022**
+**Data Scientist Intern (Master's Degree Thesis) from September 2021 to January 2022**
 + Developed an end‑to‑end deep learning web‑application for Defect Pattern Recognition on Wafer Maps by reducing daily failure analysis time from hours to less than 15 minutes (Patent pending in US - [Paper](https://ieeexplore.ieee.org/document/9877886)). The pipeline consists in:
   - Unsupervised learning approach: applied Dimensionality Reduction and Hierarhical Clustering techniques to group new unknown defect patterns from production lines and then used as new labeled class to re‑train the CNN in supervised fashion.
   - Supervised learning approach: developed a CNN that achieved 96% of accuracy on 45 known patterns and benchmarked against State‑Of‑The‑Art (VGG‑19, ResNet‑152, DenseNet‑161 and Vision Transformer both pre‑trained on ImageNet or trained from scratch), performance assessed by applying Explainable AI (XAI) methods (Integrated Gradients, Grad‑CAM and Attention Maps).
@@ -28,15 +28,15 @@ pending in US).
 Education
 ======
 **PhD Student in Computer Engineering (Expected Graduation in December of 2025)**
-+ University of Catania (Italy)
++ Department of Engineering | University of Catania (Italy)
   - Research topics: Reinforcement Learning - Imitation Learning - Computer Vision
 
 **Master Degree in ”Data Science for Management ‑ LM91” (Final mark: summa cum laude)**
-+ University of Catania (Italy), Graduated in March of 2022
++ Department of Engineering, Computer Science and Economics | University of Catania (Italy), Graduated in March of 2022
   - Thesis: “Beyond Wafer Maps: an Artificial Intelligence tool for supervised and unsupervised pattern recognition”
 
 **Bachelor Degree in ”Economics ‑ L33” (Final mark: 100 / 110)**
-+ University of Catania (Italy), Graduated in December of 2019
++ Department of Economics | University of Catania (Italy), Graduated in December of 2019
   - Thesis: “Alternative currency analysis: the Bitcoin cryptocurrency”
   
 Skills
