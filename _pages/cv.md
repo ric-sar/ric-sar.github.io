@@ -28,15 +28,15 @@ pending in US).
 Education
 ======
 **PhD Student in Computer Engineering (Expected Graduation in December of 2025)**
-+ Department of Engineering | University of Catania (Italy)
++ Department of Engineering - University of Catania (Italy)
   - Research topics: Reinforcement Learning - Imitation Learning - Computer Vision
 
 **Master Degree in ”Data Science for Management ‑ LM91” (Final mark: summa cum laude)**
-+ Department of Engineering, Computer Science and Economics | University of Catania (Italy), Graduated in March of 2022
++ Department of Engineering, Computer Science and Economics - University of Catania (Italy), Graduated in March of 2022
   - Thesis: “Beyond Wafer Maps: an Artificial Intelligence tool for supervised and unsupervised pattern recognition”
 
 **Bachelor Degree in ”Economics ‑ L33” (Final mark: 100 / 110)**
-+ Department of Economics | University of Catania (Italy), Graduated in December of 2019
++ Department of Economics - University of Catania (Italy), Graduated in December of 2019
   - Thesis: “Alternative currency analysis: the Bitcoin cryptocurrency”
   
 Skills
