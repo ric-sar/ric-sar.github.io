@@ -106,6 +106,10 @@ Honors and Awards
 
 Volunteering
 ======
+**[IEEE Transactions on Multimedia (TMM)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)**
++ Peer Reviewer from August 2023 ‑ Current
+  - Research topics: Object Detection - Computer Vision
+
 **[International Symposium on Nonlinear Theory and Its Applications (NOLTA)](https://nolta2023.org/)**
 + Peer Reviewer from May 2023 ‑ Current
   - Research topics: Reinforcement Learning
