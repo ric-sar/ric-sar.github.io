@@ -1,6 +1,6 @@
 ---
 title: 'SHARPER Night 2023'
-date: 2023-08-10
+date: 2023-10-08
 permalink: /posts/2023/08/sharper-night/
 tags:
   - generic
