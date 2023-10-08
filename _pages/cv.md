@@ -57,7 +57,7 @@ Skills
   </tr>
   <tr>
     <td>AI | ML | DL</td>
-    <td>Anaconda | Scikit-learn | OpenCV | PyCaret | PyTorch | Captum | W&amp;B | Streamlit | RLlib</td>
+    <td>Anaconda | Scikit-learn | OpenCV | PyCaret | PyTorch | Captum | W&amp;B | Streamlit | SB3</td>
   </tr>
   <tr>
     <td>IDE</td>
