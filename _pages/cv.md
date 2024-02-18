@@ -50,12 +50,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+<!---
 Conferences
 ======
   <ul>{% for post in site.conferences %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+-->
 
 Service to the profession
 ======
@@ -133,6 +134,5 @@ Others
 
 Volunteering
 ======
-**[Superhero Valley](https://superherovalley.fun/)**
-+ **Community Manager and Tech Talk Organizer - From February 2022 - Present**
-  - Design and organize talks with big tech companies (Google, Meta, VMware, and so on) for young tech talents 
+**[Superhero Valley](https://superherovalley.fun/)** (February 2022 - Present)
++ Community Manager and Tech Talk Organizer with big tech companies (Google, Meta, VMware, and so on) for young tech talents
