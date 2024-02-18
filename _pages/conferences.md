@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Conferences"
-permalink: /conferences/
+permalink: /_conferences/
 author_profile: true
 ---
 
@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.conferences reversed %}
+{% for post in site._conferences reversed %}
   {% include archive-single.html %}
 {% endfor %}
